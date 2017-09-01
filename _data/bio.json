@@ -17,24 +17,25 @@
 			{
 				"network": "GitHub",
 				"username": "mynatt",
-				"url": "http://github.com/mynatt/"
+				"url": "http://github.com/mynatt"
 			},
 			{
 				"network": "LinkedIn",
 				"username": "micahmynatt",
-				"url": "http://linkedin.com/in/micahmynatt/"
+				"url": "http://linkedin.com/in/micahmynatt"
 			},
 			{
 				"network": "JSFiddle",
 				"username": "mynatt",
-				"url": "https://jsfiddle.net/user/mynatt/"
+				"url": "https://jsfiddle.net/user/mynatt"
 			}
 		]
 	},
 	"interests": [
 		{
 			"name": "web development",
-			"keywords": [
+			"keywords": ["PHP7, Javascript, HTML5, CSS3, SQL, Yii, Twig"],
+			"keywords all": [
 				"PHP", "PHP7",
 				"JS", "Javascript", "JSON",
 				"HTML", "HTML5",
@@ -47,13 +48,15 @@
 		{
 			"name": "game development",
 			"keywords": [
-				"LOVE2D",
+				"LÖVE",
 				"Lua"
 			]
 		},
 		{
 			"name": "virtual reality",
-			"keywords": []
+			"keywords": [
+				"VR", "SteamVR", "HTC Vive", "Unity"
+			]
 		}
 	],
 	"skills": [
@@ -62,7 +65,7 @@
 			"level": "",
 			"keywords": [
 				"Lua",
-				"LOVE2D",
+				"LÖVE",
 				"C++",
 				"C",
 				"PHP",
@@ -100,7 +103,7 @@
 		{
 			"company": "Native Hawaiian Student Services at University of Hawaii at Manoa",
 			"position": "Web Developer",
-			"website": "http://manoa.hawaii.edu/nhss/",
+			"website": "http://manoa.hawaii.edu/nhss",
 			"startDate": "2016-11",
 			"endDate": "Present",
 			"summary": "Web Developer for Native Hawaiian Student Services, part of the Hawai'inuiakea School of Hawaiian Knowledge (PHP, WordPress, JS, CSS, HTML)",
@@ -109,9 +112,9 @@
 		{
 			"company": "Jas. W. Glover, Ltd.",
 			"position": "IT Intern",
-			"website": "http://www.gloverltd.com/new/",
+			"website": "http://www.gloverltd.com/new",
 			"startDate": "2017-05",
-			"endDate": "2016-08",
+			"endDate": "2017-08",
 			"summary": "Intern for Jas. W. Glover, Ltd. (PHP7, JS, CSS3, HTML5)",
 			"highlights": [
 				"Development of new website using modern web technology standards",
@@ -121,7 +124,7 @@
 		{
 			"company": "COSEE Island Earth",
 			"position": "Web Developer",
-			"website": "http://www.seaharmony.org/",
+			"website": "http://www.seaharmony.org",
 			"startDate": "2015-07",
 			"endDate": "2016-08",
 			"summary": "Web Developer for seaHarmony.org (PHP, MySQL, Yii 1.1, Apache, JS, CSS, HTML)",
@@ -136,20 +139,54 @@
 		{
 			"company": "Red Bamboo Hawaii",
 			"position": "Web Developer",
-			"website": "http://www.seaharmony.org/",
+			"website": "",
 			"startDate": "2014-11",
 			"endDate": "2016-02",
-			"summary": "Web Developer for seaHarmony.org (PHP, MySQL, Yii 1.1, Apache, JS, CSS, HTML)",
+			"summary": "",
 			"highlights": [
-				"Existing code maintenance and adjustments",
-				"Database modifications and maintenance",
-				"Detection and repair of bugs and security flaws",
-				"Design, modeling and creation of new pages and features",
-				"Upgrade and compatibility management for framework upgrades"
+				"On-call IT support",
+				"Lightspeed retail POS setup and maintenance",
+				"Store speaker system and security camera maintenance",
 			]
-		}
+		},
+		{
+			"company": "Kalaheo High School",
+			"position": "Educational Assistant",
+			"website": "",
+			"startDate": "2015-05",
+			"endDate": "2013-08",
+			"summary": "",
+			"highlights": [
+				"Worked with graphic design and video editing software (Final Cut Pro, Adobe Premiere/After Effects/Photoshop/Illustrator/InDesign",
+				"Assisted students with schoolwork and projects",
+				"Developed teaching and reference materials",
+				"Created videos, graphics and written material for use in the classroom, distribution and broadcasting",
+				"Troubleshooted computer software issues"
+			]
+		},
 	],
 	"volunteer": [
+		{
+			"company": "Surfrider Foundation, Kauai Chapter",
+			"position": "Wordpress Developer",
+			"website": "https://kauai.surfrider.org",
+			"startDate": "2016-06",
+			"endDate": "Present",
+			"summary": "Wordpress Developer for Surfrider Foundation, Kauai Chapter (PHP, JS, CSS, HTML)",
+			"highlights": [
+				"Updating posts, pages and layouts with new information",
+				"Custom theme modifications",
+				"Modification and maintenance of existing plugins and associated pages",
+				"Development of new custom plugins and associated pages"
+			]
+		},
+		{
+			"company": "Room Enough Ministries, Hope Chapel Eastside",
+			"position": "Live Audio Mixing",
+			"startDate": "2007-01",
+			"endDate": "2011-12",
+			"summary": "Live audio mixing for worship services (Behringer Europower PMP5000)",
+		}
 	],
 	"awards": [
 	],
