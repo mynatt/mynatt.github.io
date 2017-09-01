@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/rvw/thumb.png
 title: Robots Vs. Witches
-permalink: projects/robots-vs-withces
-date: 2015-02
+permalink: projects/robots-vs-witches
+date: 2015
 labels:
 - game development
 - hackathon
