@@ -54,7 +54,7 @@ for (let val of obj) {
 }
 ```
 
-I know not everyone would agree with the inclusion of a syntax or language reference during assignments or testing. There would also be the matter of However, in my personal experience, it's much more realistic to have such a resource on hand and be able to refer back to it when required during a task. Very rarely is one locked in a room with only a text editor and command prompt, free of any helpful materials that might lend even the slightest of "hints".
+I know not everyone would agree with the inclusion of a syntax or language reference during assignments or testing. However, in my personal experience, it's much more realistic to have such a resource on hand and be able to refer back to it when required during a task. Very rarely is one locked in a room with only a text editor and command prompt, free of any helpful materials that might lend even the slightest of "hints".
 
 ## Final Remarks
 
