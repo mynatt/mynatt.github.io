@@ -12,7 +12,7 @@ labels:
 summary: As part of my internship, I developed a new website for Jas. W. Glover, Ltd. 
 ---
 
-<img class="ui image rounded" src="../images/glover/title.png">
+<img class="ui image rounded" src="../images/glover/home.png">
 
 As part of my internship at [Jas. W. Glover, Ltd.](https://www.gloverltd.com), I created a new website for them, incorporating modern web design standards to support both desktop and mobile web experiences.
 
