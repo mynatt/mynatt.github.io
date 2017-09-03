@@ -46,11 +46,11 @@ arr.push(4); // arr = [1, 2, 3, 4]
 let a = arr.pop(4); // a = 4, arr = [1, 2, 3]
 
 let obj = {key1: 1, "key2": "value2"};
-for (const key in obj) { 
+for (const key in obj) { // works on arrays and objects
 	console.log(key); // prints: "key1", "key2" 
 }
-for (let val of obj) { 
-	console.log(val); // prints: 1, "value2"
+for (let val of arr) { // works on iterables like arrays, but not objects
+	console.log(val); // prints: 1, 2, 3
 }
 ```
 
@@ -59,3 +59,5 @@ I know not everyone would agree with the inclusion of a syntax or language refer
 ## Final Remarks
 
 I believe the methodologies in use for this class hold serious promise, and I have found myself enjoying the class so far, despite some of the execution flaws. However, I believe by adopting my proposals, the beneficial properties of learning the material in a "trial by fire" could be kept, while minimizing the unnecessary stresses placed on the students, and allowing them a chance to gain gradual familiarity with the language syntax while exercising core concepts.
+
+*UPDATE 2017-09-02: I mistakenly demonstrated the `for..of` loop on an object, believing it to work on both objects and arrays. It does not. I think this error came from my experience with Lua, and the similar `for _,v in pairs(obj) do .. end` syntax, which does work on objects. This error has been corrected.*
