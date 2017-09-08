@@ -1,5 +1,5 @@
 ---
-title: Stack Underflow, Or: Garbage Questions In, Garbage Answers Out
+title: Garbage Questions In, Garbage Answers Out
 author: Micah Mynatt
 layout: essay
 type: essay
