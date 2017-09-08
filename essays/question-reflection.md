@@ -88,8 +88,8 @@ return a
 > A manager of mine once had his first encounter with this feature, and called it "a dramatic design flaw" of the language. I replied that the behavior had an underlying explanation, and it is indeed very puzzling and unexpected if you don't understand the internals. However, I was not able to answer (to myself) the following question: what is the reason for binding the default argument at function definition, and not at function execution? I doubt the experienced behavior has a practical use (who really used static variables in C, without breeding bugs?)
 
 Let's take a look at this question:
-- Demonstrates curiosity into the subject
-- Demonstrates prior experience and 
+- Demonstrates curiosity into the subject and a willingness to learn and contribute
+- Demonstrates prior experience and effort put into constructing the question
 - Correctly targeted towards those with experience in Python
 
 This question is a little different from the previous, in that it doesn't ask for a "solution"; instead, it's more interested in discussing the reasoning and ramifications of certain design decisions of the language itself. With **1769 upvotes**, **588 stars**, and **29 answers**, one can clearly see a very interested and positive reaction to this question. How wonderful! I'm sure the question asker is very intellectually satisfied with how this all turned out.
