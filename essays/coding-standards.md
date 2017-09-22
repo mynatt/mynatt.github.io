@@ -3,7 +3,7 @@ title: Coding Without Cruft
 author: Micah Mynatt
 layout: essay
 type: essay
-date: 2017-09-07
+date: 2017-09-21
 labels:
 - software engineering
 - reflection
