@@ -1,5 +1,5 @@
 ---
-title: Imperfect Solutions for Systems - A Tale of UI Frameworks
+title: Imperfect Solutions for Complicated Systems - A Tale of UI Frameworks
 author: Micah Mynatt
 layout: essay
 type: essay
