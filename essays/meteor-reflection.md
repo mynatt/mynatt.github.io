@@ -3,7 +3,7 @@ title: I'll Pass on This Shooting Star
 author: Micah Mynatt
 layout: essay
 type: essay
-date: 2017-10-19
+date: 2017-10-26
 labels:
 - software engineering
 - meteor
