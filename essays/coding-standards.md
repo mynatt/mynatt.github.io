@@ -8,7 +8,6 @@ labels:
 - software engineering
 - reflection
 - coding standards
-assignment: Many people think of “coding standards” in a trivial way—i.e. minutiae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself. I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree? After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely? Write an interesting, informative essay on coding standards that addresses some or all of the above questions, or goes in a different direction entirely regarding coding standards. Make sure it provides your personal perspective and useful insights.
 ---
 
 In a modern development environment, coding standards are essential to maintaining your sanity while working on any project, regardless of its size or the number of active developers. This can involve paying attention meticulous details like tab sizes, line breaks, symbol formatting, and even details like line endings. Keeping track of all these details can be necessary, but are time-consuming and tedious to track and correct. In many cases like these, developers opt to use helpful software utilities known as **linters**.
